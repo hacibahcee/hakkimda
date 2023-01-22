@@ -1,0 +1,2 @@
+# hakkimda
+Kendimle ilgili bilgiler
